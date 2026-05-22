@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateGetBookingKatalonandKafka</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aea5f13d-c8f9-49a4-8bc2-4889647d9c8e</testCaseGuid>
+</TestCaseEntity>

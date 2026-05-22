@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateGetBookingKatalonasProducerandConsumer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>804c4e97-e6a7-4b3f-91ed-2e5638b239d1</testCaseGuid>
+</TestCaseEntity>
